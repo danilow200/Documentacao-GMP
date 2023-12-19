@@ -13,4 +13,10 @@ jobs:
           python-version: 3.8
       - run: pip install mkdocs-material
       - run: pip install mkdocs-glightbox
-      - run: mkdocs gh-deploy --force
+      - name: Deploy to GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.BOT }}  # Substitua GH_TOKEN pelo nome do seu segredo
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          mkdocs gh-deploy --force
