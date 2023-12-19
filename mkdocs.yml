@@ -1,0 +1,5 @@
+site_name: Documentação - Projeto GMP
+theme:
+  name: material
+  favicon: assets/icontelebras_resized.ico
+  logo: assets/logo.png
