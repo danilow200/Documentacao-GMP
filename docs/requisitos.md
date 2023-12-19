@@ -24,8 +24,3 @@
 | RF20 | O sistema deve apresentar páginas contendo os detalhes dos incidentes exibidos presentes na tabela |
 | RF21 | O sistema deve apresentar uma página (com tabela) contendo os descontos |
 | RF22 | O sistema deve apresentar uma página contendo as MPS (com filtros) |
-| :---: | --- |
-| RNF01 | Usar sistema de banco de dados não relacional |
-| RNF02 | As lingaugens de programção usadas serão: TypeScript-React, Python |
-| RNF03 | Padrão de desenvolvimento: Identação de código,etc  |
-| RNF04 | O sistema deve atender as necessidades da Gerência de Manutenção da Planta |
