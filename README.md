@@ -1,2 +1,2 @@
 # Projeto - GMP
-- Repositório para armazenamento da documentação do projeto GMO
+- Repositório para armazenamento da documentação do projeto GMP
