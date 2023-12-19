@@ -6,3 +6,4 @@
 | RF02 | Todas as tabelas/listas devem apresentar filtros |
 | RF03 | Sistema de login (gerencial e operacional) |
 | RF04 | Localidades: deve-se abrir uma tela detalhada contendo mais informações (estações do município, status, etc.) |
+| RF05 | Deve ser possível exportar o banco de dados |
