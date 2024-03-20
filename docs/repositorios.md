@@ -3,3 +3,5 @@ O portal foi dividido em 2 repositórios, que podem ser acessados nos links abai
 
 - [Frontend](https://github.com/danilow200/portal-gmp-frontend)
 - [Backend](https://github.com/danilow200/portal-gmp-backend)
+
+Por serem privados, é necessário solicitar acesso ao [Danilo](https://github.com/danilow200).
