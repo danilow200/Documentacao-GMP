@@ -1,5 +1,7 @@
 # Requisitos Funcionais
 
+Após reunião com os demais membros da GMP, foram definidos os seguintes requisitos:
+
 | ID | Descrição |
 | :---: | --- |
 | RF01 | Deve ser possível acessar outros sistemas/páginas utilizadas atualmente pela gerência (atalhos) |
