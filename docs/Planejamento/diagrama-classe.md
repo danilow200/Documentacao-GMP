@@ -2,4 +2,4 @@
 
 ## V1
 
-![alt text](./assets/diagrama_classe.png)
+![alt text](../assets/diagrama_classe.png)

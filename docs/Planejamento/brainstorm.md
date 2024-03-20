@@ -1,3 +1,3 @@
 # Brainstorm
 
-![alt text](./assets/BRAINSTORM.png)
+![alt text](../assets/BRAINSTORM.png)
