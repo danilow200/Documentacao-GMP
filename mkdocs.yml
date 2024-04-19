@@ -3,7 +3,7 @@ theme:
   name: material
   favicon: assets/icontelebras_resized.ico
   logo: assets/logo.png
-   palette:
+  palette:
                 # Palette toggle for light mode
                 - scheme: default
                   primary: light green
