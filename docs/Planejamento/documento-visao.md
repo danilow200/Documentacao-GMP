@@ -147,6 +147,13 @@ Além disso, o portal se diferencia dos outros sistemas utilizados pela Telebras
 - **Adaptabilidade:** O Portal da GMP é construído com a flexibilidade para se adaptar às mudanças nas necessidades da GMP ao longo do tempo. Isso garante que o portal continue a ser uma ferramenta valiosa e relevante para a equipe, independentemente de como suas necessidades evoluam no futuro.
 - **Foco no Usuário:** O Portal da GMP coloca os colaboradores no centro de seu design e funcionalidade. Ele é intuitivo, fácil de usar e visa melhorar a experiência do usuário em todas as interações. Isso resulta em maior satisfação do usuário e aumento da produtividade.
 
+### 4.2. Resumo das Capacidades
+
+| Benefício para o Cliente    | Recursos de Suporte                                                                  |
+| --------------------------- | ------------------------------------------------------------------------------------ |
+| Consolidação de Informações | Todas as informações necessárias para a rotina de descontos da GMP em um único lugar |
+| Sistema Próprio da Gerência | Sistema personalizado para atender às necessidades específicas da GMP                |
+
 ## Versionamento
 
 | Data       | Versão | Descrição                                                            | Autor(es)                                            |
