@@ -1,6 +1,8 @@
-# Requisitos Funcionais
+# Requisitos
 
 Após reunião com os demais membros da GMP, foram definidos os seguintes requisitos:
+
+**Requisitos Funcionais**
 
 | ID | Descrição |
 | :---: | --- |
@@ -26,3 +28,17 @@ Após reunião com os demais membros da GMP, foram definidos os seguintes requis
 | RF20 | O sistema deve apresentar páginas contendo os detalhes dos incidentes exibidos presentes na tabela |
 | RF21 | O sistema deve apresentar uma página (com tabela) contendo os descontos |
 | RF22 | O sistema deve apresentar uma página contendo as MPS (com filtros) |
+
+
+**Requisitos não Funcionais**
+
+| ID | Descrição |
+| :---: | --- |
+| RNF01 | Desenvolver um portal fácil de usar. |
+| RNF02 | Precisar estar logado para acessar o Portal. |
+| RNF03 | Segurança dos dados da Telebras. |
+| RNF04 | O portal não deverá armazenar dados localmente, sendo estes direcionados ao servidor da Telebras. |
+| RNF05 | O portal deve ser capaz de diferenciar o usuário externo do colaborador da GMP. |
+| RNF06 | O portal deve possuir uma visão para o usuário externo do e uma para colaborador da GMP. |
+| RNF07 | O Portal deve ser capaz de listar os itens de forma ágil e fácil de compreender |
+| RNF08 | O sistema deverá executar em qualquer navegador. |
