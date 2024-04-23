@@ -223,4 +223,4 @@ Essa etapa descreve as prioridades dos recursos do sistema. Para isso são defin
 | ---------- | ------ | -------------------------------------------------------------------- | ---------------------------------------------------- |
 | 22/04/2024 | 1.0    | Adiciona Estrutura inicial do documento de visão e tópicos 1, 2 e 3. | [Danilo Domingo](https://github.com/danilow200)      |
 | 22/04/2024 | 1.1    | Complementa a estrutura incial do documento de visão no tópico 4.    | [Gabriel Cabral](https://github.com/GabriellCabrall) |
-| 22/04/2024 | 1.2    | Finaliza tópico 4 e adicona tópicos 5,6,7 e 8 | [Danilo Domingo](https://github.com/danilow200)      |
+| 23/04/2024 | 1.2    | Finaliza tópico 4 e adicona tópicos 5,6,7 e 8 | [Danilo Domingo](https://github.com/danilow200)      |
