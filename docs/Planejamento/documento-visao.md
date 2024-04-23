@@ -154,9 +154,73 @@ Além disso, o portal se diferencia dos outros sistemas utilizados pela Telebras
 | Consolidação de Informações | Todas as informações necessárias para a rotina de descontos da GMP em um único lugar |
 | Sistema Próprio da Gerência | Sistema personalizado para atender às necessidades específicas da GMP                |
 
+### 4.3. Dependências
+O portal irá rodar dentro das dependêcias da Telebras, utilizando do servidor que a mesma possui e ficando inteiramente hospedado em seu sistema, sendo que para acesso não será necessario estar na intranet da Telebras, podendo ser acessado por rede externa.
+
+### 4.4. Custo e Precificação
+
+O sistema será desenvolvido pelos os estagiários contratados pela a Telebras, também irá funcionar na rede da própria Telebras, assim não tendo nenhum custo além do que já é utilizado para manter os estagiários e a rede.
+
+### 4.5. Instalação
+O produto não possuirá instalção, uma vez visto que ele estará disponivel em um domínio na WEB, necissitando apenas de um navegador para acessa-lo.
+
+## 5. Recursos do Produto
+### 5.1. Sistema de Gestão de Incidentes
+Um sistema capaz de gerir um ticket após o seu encerramento, podendo fazer alteração em suas definições, fazer desconto para o mesmo, a capacidade de analisar o ticket de forma automática e já aplicar desconto ao mesmo, gerar planilha de controle com informações dos tickets.
+
+### 5.2. Sistema de Gerenciamento de Empresas Contradas
+Um sistema capaz de gerir as empresas que foram contratadas para realizar tarefas relacionadas com a rede externa e interna, podendo ser capaz de definir os líderes reponsaveís por cada região, alterar a empresa contratada.
+
+### 5.3. Acesso a Outras Bases Internas
+Uma forma de consultar informações de outras bases, como a base de estações, fornecedores, etc, afim de agilizar na consulta de informações.
+
+### 5.4. Acompanhar Ordem de Serviços
+Poder acompanhar MPS, Manutenções Programadas, VDS e Atividades, sendo capaz de ver como está o desenvolvimento dessas atividades e após finalizadas, ser capaz de acessar e fazer o controle de toda atividade.
+
+### 5.5. Gestão de Contratos
+Ser capaz de acessar os contratos já existentes, se necessario altera-los, criar novos e deletar os antigos.
+
+### 5.6. Controle de Inventario
+Poder acomponhar o gerenciamento de invetario, sendo capaz de fazer a gestão de estoque.
+
+## 6. Restrições
+* O portal deve estar em funcionamento dentro da rede da Telebras.
+* Ter um computador capaz de acessar a internet, para acessar o sistema.
+
+### 6.1 Restrições Externas
+Desenvolvimento inicial do portal fora da rede da Telebras, assim não sendo capaz de desenvolver certas funcionalidades que dependem do acesso aos demais sistemas internos da Telebras.
+
+### 6.2 Restrições de Design
+Toda a interação com o software deve ser feita de forma natural, de modo que o usuário não tenha dúvidas sobre como realizar determinada tarefa dentro do aplicativo. Os recursos cujo usuários têm acesso devem ser de fácil entendimento, de modo que o usuário não desista durante alguma ação. Deve seguir o guia de estilo da Telebras, assim mantendo a indentidade visual da empresa. Para facilitar o desenvolvimento será feito um página web.
+
+### 6.3 Restrições de Confiabilidade
+O portal será testadas exaustivamente com com o intuito de manter os dados protegidos e 100% operacional.
+
+## 7. Faixas de Qualidade
+Para maior eficiência e acessibilidade, a aplicação será web, pois possíbilita o acesso a aplicação em computadores. Além disso, a aplicação deverá ser responsivo para o tamanho de tela de desktops e laptops.
+
+## 8. Precedência e Prioridade
+Essa etapa descreve as prioridades dos recursos do sistema. Para isso são definidos critérios de prioridade.
+
+| Definição da prioridade | Descrição |
+| -- | -- |
+| Crítico | Refere-se a um recurso essencial para o sistema, sem ele as necessidades do cliente não serão atendidas e o projeto fracassará. |
+| Importante | 	Não determina o fracasso do projeto, mas afetará a satisfação do usuário. |
+| Útil | São úteis, porém não críticos. Utilizados, geralmente, com menos frequência. Não afetam a satisfação do usuário. |
+
+| Recurso | Prioridade |
+| -- | -- |
+| Sistema de Gestão de Incidentes | Crítico |
+| Sistema de Gerenciamento de Empresas Contradas | Crítico |
+| Acesso a Outras Bases Internas | Importante |
+| Acompanhar Ordem de Serviços | Crítico |
+| Gestão de Contratos | Crítico |
+| Controle de Inventario | Importante |
+
 ## Versionamento
 
 | Data       | Versão | Descrição                                                            | Autor(es)                                            |
 | ---------- | ------ | -------------------------------------------------------------------- | ---------------------------------------------------- |
 | 22/04/2024 | 1.0    | Adiciona Estrutura inicial do documento de visão e tópicos 1, 2 e 3. | [Danilo Domingo](https://github.com/danilow200)      |
 | 22/04/2024 | 1.1    | Complementa a estrutura incial do documento de visão no tópico 4.    | [Gabriel Cabral](https://github.com/GabriellCabrall) |
+| 22/04/2024 | 1.2    | Finaliza tópico 4 e adicona tópicos 5,6,7 e 8 | [Danilo Domingo](https://github.com/danilow200)      |
