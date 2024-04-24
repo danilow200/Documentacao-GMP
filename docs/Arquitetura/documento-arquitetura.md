@@ -20,7 +20,7 @@ Esse documento serve de guia para outros tópicos da construção arquitetural d
 
  * **Next.js**: O Next.js é uma estrutura da web de desenvolvimento front-end React de código aberto criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React. É uma estrutura pronta para produção que permite que os desenvolvedores criem rapidamente sites estáticos e dinâmicos e é amplamente usada por muitas grandes empresas.
 
- #### Backend
+#### Backend
 
   * **Python**: Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. 
 
