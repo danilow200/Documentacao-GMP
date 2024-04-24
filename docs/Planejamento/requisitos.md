@@ -2,7 +2,7 @@
 
 Após reunião com os demais membros da GMP, foram definidos os seguintes requisitos:
 
-**Requisitos Funcionais**
+## Requisitos Funcionais
 
 | ID | Descrição |
 | :---: | --- |
@@ -30,7 +30,7 @@ Após reunião com os demais membros da GMP, foram definidos os seguintes requis
 | RF22 | O sistema deve apresentar uma página contendo as MPS (com filtros) |
 
 
-**Requisitos não Funcionais**
+## Requisitos não Funcionais
 
 | ID | Descrição |
 | :---: | --- |
