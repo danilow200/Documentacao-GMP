@@ -75,8 +75,22 @@ Abaixo, podemos ver uma imagem da seção ***Estações***:
 
 ![Seção 'Estações' no Portal GMP](../assets/imagem-estacoes.jpg)
 
-Ao selecionar uma *estaçãp*, o usuário será redirecionado para outra página, que contém os detalhes da estação. 
+Ao selecionar uma *estação*, o usuário será redirecionado para outra página, que contém os detalhes da estação. 
 Nesta página, os usuários que possuírem permissão poderão ver a localização da estação no mapa e editar as informações da mesma,
 como pode ser visto na imagem a seguir:
 
 ![Página com detalhes das 'Estações' no Portal GMP](../assets/detalhe-estacoes.jpg)
+
+#### **Líderes**
+
+Atualmente, a seção *líderes* apresenta, em formato de tabela, a relação de líderes de campo e, sendo atribuído a cada um os estados pelos quais são responsáveis, seus coordenadores e seus respectivos contatos (email e telefone).
+Abaixo, podemos ver uma imagem da seção ***Líderes***:
+
+![Seção 'Líderes' no Portal GMP](../assets/imagem-lideres.jpg)
+
+#### **Técnicos**
+
+Atualmente, a seção *técnicos* apresenta, em formato de tabela, a relação de técnicos de campo, sendo atribuído a cada um os CMs pelos quais são responsáveis e os líderes de campo.
+Abaixo, podemos ver uma imagem da seção ***Líderes***:
+
+![Seção 'Líderes' no Portal GMP](../assets/imagem-tecnicos.jpg)
