@@ -12,7 +12,7 @@ O Portal, atualmente, é organizado nas seguintes seções
 - ***NTPs***
 - ***Plataformas***
 
-### **Dashboards**
+## **Dashboards**
 
 Atualmente, a área **Dashboards** apresenta um gráfico com a volumetria dos incidentes, o qual pode ser filtrado pelos meses (sendo possível selecionar automaticamente os últimos 12 meses).
 
@@ -20,7 +20,7 @@ Além disso, também apresenta o tempo médio de atendimento do mês/período se
 
 ![Área 'Dashboards' no Portal GMP](../assets/imagem-dashboards.jpg)
 
-### **Manutenção**
+## **Manutenção**
 
 A área ***Manutenção*** contém as informações relacionadas a rotina de incidentes, incluindo as seguintes seções:
 
@@ -31,7 +31,7 @@ A área ***Manutenção*** contém as informações relacionadas a rotina de inc
 - ***Líderes***
 - ***Técnicos***
 
-#### **Tickets**
+### **Tickets**
 
 Atualmente, a seção *tickets* apresenta, em formato de tabela, a relação de tickets de incidentes abertos por mês/ano. É possível realizar o download dessa tabela no formato *.csv* e será ajustado para que este download seja feito no formato .xlsx, o formato de arquivos *excel*.
 
@@ -44,7 +44,7 @@ Ao selecionar um *ticket*, uma janela pop-up contendo as informações do mesmo 
 ![Janela pop-up de 'Tickets' no Portal GMP](../assets/detalhe-tickets.jpg)
 
 
-#### **Descontos**
+### **Descontos**
 
 Atualmente, a seção *descontos* apresenta, em formato de tabela, a relação de tickets que possuem descontos,
 os quais estarão classificados como **PENDENTE**  ou **APROVADO**. Ao selecionar um *ticket*, a janela *pop-up* 
@@ -56,7 +56,7 @@ A imagem abaixo mostra a seção ***Descontos***:
 ![Seção 'Descontos' no Portal GMP](../assets/imagem-descontos.jpg)
 
 
-#### **Localidades**
+### **Localidades**
 
 Atualmente, a seção *localidades* apresenta, em formato de tabela, a relação de localidades 
 cadastradas no sistema, sendo estas separadas por estado. É possível realizar o download dessa tabela no formato .csv e 
@@ -65,7 +65,7 @@ Abaixo, podemos ver uma imagem da seção ***Localidades***:
 
 ![Seção 'Localidades' no Portal GMP](../assets/imagem-localidades.jpg)
 
-#### **Estações**
+### **Estações**
 
 Atualmente, a seção *estações* apresenta, em formato de tabela, a relação de estações 
 cadastradas no sistema, sendo estas separadas por estado. É possível realizar o download dessa tabela no formato .xlsx, 
@@ -81,16 +81,35 @@ como pode ser visto na imagem a seguir:
 
 ![Página com detalhes das 'Estações' no Portal GMP](../assets/detalhe-estacoes.jpg)
 
-#### **Líderes**
+### **Líderes**
 
 Atualmente, a seção *líderes* apresenta, em formato de tabela, a relação de líderes de campo e, sendo atribuído a cada um os estados pelos quais são responsáveis, seus coordenadores e seus respectivos contatos (email e telefone).
 Abaixo, podemos ver uma imagem da seção ***Líderes***:
 
 ![Seção 'Líderes' no Portal GMP](../assets/imagem-lideres.jpg)
 
-#### **Técnicos**
+### **Técnicos**
 
 Atualmente, a seção *técnicos* apresenta, em formato de tabela, a relação de técnicos de campo, sendo atribuído a cada um os CMs pelos quais são responsáveis e os líderes de campo.
-Abaixo, podemos ver uma imagem da seção ***Líderes***:
+Abaixo, podemos ver uma imagem da seção ***Técnicos***:
 
 ![Seção 'Líderes' no Portal GMP](../assets/imagem-tecnicos.jpg)
+
+
+## **Plataformas**
+
+A área ***Plataformas*** contém atalhos que redirecionam o usuário paras as principais plataformas utilizadas na rotina de controle de incidentes e manutenção da planta, as quais incluem:
+
+- ***CPQD - Plant Management***
+- ***OM - Order Management***
+- ***Portal CIGR***
+- ***ITSM***
+- ***Padtec NMS+***
+- ***BCE***
+- ***Painel Indicadores***
+- ***Report***
+- ***SIGA-DOC***
+
+A imagem abaixo mostra a página de **Plataformas**:
+
+![Área 'Plataformas' no Portal GMP](../assets/imagem-plataformas.jpg)
